@@ -20,11 +20,11 @@ Track money lent & borrowed with interest, reminders & secure backup.
 
 ```
 Are you tired of forgetting who owes you money? LendWise is the smartest lending 
-and borrowing tracker app to manage all your personal loans, udhar, and khata 
-records — with interest calculation, due date reminders, and encrypted backup.
+and borrowing tracker app to manage all your personal lent or borrowed records — with 
+interest calculation, due date reminders, and encrypted backup.
 
 Whether you lend money to friends and family or borrow from someone, LendWise 
-keeps every rupee tracked, organized, and secured on your device.
+keeps every money lent or borrowed tracked, organized, and secured on your device.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 💰 TRACK MONEY LENT & BORROWED
@@ -88,7 +88,6 @@ keeps every rupee tracked, organized, and secured on your device.
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ✅ PERFECT FOR
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-✔ Tracking udhar (उधार) and khata records
 ✔ Personal loan manager between friends and family
 ✔ Small business lending and borrowing records
 ✔ Chit fund payment tracking
@@ -103,7 +102,7 @@ LendWise works 100% offline. Your financial data never leaves your device.
 No ads. No cloud sync. No account required. Just a simple, secure money 
 lending tracker built for your peace of mind.
 
-Download LendWise now — the best free udhar tracker, loan manager, and 
+Download LendWise now — the best free lending tracker, loan manager, and 
 personal lending app for Android.
 ```
 

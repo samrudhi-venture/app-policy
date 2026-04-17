@@ -1,7 +1,7 @@
 # Privacy Policy for LendWise
 
 **Effective Date:** 7 April 2026
-**Last Updated:** 7 April 2026
+**Last Updated:** 15 April 2026
 
 LendWise ("App", "we", "our", or "us") respects your privacy and is committed to protecting it. This Privacy Policy explains how information is handled when you use the LendWise mobile application available on the Google Play Store.
 
@@ -34,23 +34,15 @@ We do **not** collect:
 
 ---
 
-## 3. Google Sign‑In
-
-The App uses Google Login for user authentication:
-
-- Only basic authentication information is used
-- No profile data, contacts, or emails are accessed or stored by us
-
----
-
-## 4. App Permissions
+## 3. App Permissions
 
 LendWise may request the following permissions:
 
 | Permission | Purpose |
 |---|---|
-| Contacts | To select people for transaction records |
-| Camera & Gallery | To attach images or notes to records |
+| Contacts | To let you pick a person from your address book when adding a transaction. The app uses the device's built-in contact picker and does not request broad access to your contacts. |
+| Camera & Gallery | To attach images or receipts to transaction records |
+| Biometrics | To unlock the app using fingerprint or Face ID (optional) |
 
 All permission data:
 
@@ -60,7 +52,7 @@ All permission data:
 
 ---
 
-## 5. Data Usage
+## 4. Data Usage
 
 We:
 
@@ -72,7 +64,7 @@ We:
 
 ---
 
-## 6. Ads & Payments
+## 5. Ads & Payments
 
 The App:
 
@@ -83,7 +75,7 @@ The App:
 
 ---
 
-## 7. Data Security
+## 6. Data Security
 
 Users are responsible for:
 
@@ -95,19 +87,19 @@ We recommend enabling device‑level security such as screen locks and backups.
 
 ---
 
-## 8. Children's Privacy
+## 7. Children's Privacy
 
 LendWise is not intended for children under 18. We do not knowingly collect information from minors.
 
 ---
 
-## 9. Changes to This Policy
+## 8. Changes to This Policy
 
 We may update this Privacy Policy periodically. Continued use of the App indicates acceptance of any updates.
 
 ---
 
-## 10. Contact Us
+## 9. Contact Us
 
 For questions or concerns regarding privacy:
 

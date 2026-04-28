@@ -41,7 +41,7 @@ LendWise may request the following permissions:
 | Permission | Purpose |
 |---|---|
 | Contacts | To let you pick a person from your address book when adding a transaction. The app uses the device's built-in contact picker and does not request broad access to your contacts. |
-| Camera & Gallery | To attach images or receipts to transaction records |
+| Camera & Gallery | To attach images, videos, or receipts to transaction records |
 | Biometrics | To unlock the app using fingerprint or Face ID (optional) |
 
 All permission data:

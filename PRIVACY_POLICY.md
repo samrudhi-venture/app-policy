@@ -1,7 +1,7 @@
 # Privacy Policy for LendWise
 
 **Effective Date:** 7 April 2026
-**Last Updated:** 15 April 2026
+**Last Updated:** 29 April 2026
 
 LendWise ("App", "we", "our", or "us") respects your privacy and is committed to protecting it. This Privacy Policy explains how information is handled when you use the LendWise mobile application available on the Google Play Store.
 
@@ -41,7 +41,7 @@ LendWise may request the following permissions:
 | Permission | Purpose |
 |---|---|
 | Contacts | To let you pick a person from your address book when adding a transaction. The app uses the device's built-in contact picker and does not request broad access to your contacts. |
-| Camera & Gallery | To attach images, videos, or receipts to transaction records |
+| Camera & Gallery | To attach images or receipts to transaction records |
 | Biometrics | To unlock the app using fingerprint or Face ID (optional) |
 
 All permission data:
